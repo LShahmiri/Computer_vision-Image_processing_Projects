@@ -15,3 +15,4 @@
 •Reduces the spatial resolution of the image.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Add_noise: Adding some random-samples based on some distribution to have noisy image
